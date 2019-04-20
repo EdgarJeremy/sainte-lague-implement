@@ -1,11 +1,12 @@
 # Implementasi Sainte-Lague dalam pemrograman
 Algoritma Sainte-Lague digunakan untuk menentukan jumlah kursi yang berhak didapatkan oleh partai politik di parlemen, sesuai dengan jumlah suara yang didapatkan di daerah pemilihan. Untuk detail algoritma silakan pelajari di artikel di bawah ini
 
-[Mengenal Sainte Lague, Metode Penghitungan Kursi di Pileg 2019](https://news.detik.com/berita/d-4516891/mengenal-sainte-lague-metode-penghitungan-kursi-di-pileg-2019)
+- [Metode Webster/Sainte-Laguë](https://id.wikipedia.org/wiki/Metode_Webster/Sainte-Lagu%C3%AB)
+- [Mengenal Sainte Lague, Metode Penghitungan Kursi di Pileg 2019](https://news.detik.com/berita/d-4516891/mengenal-sainte-lague-metode-penghitungan-kursi-di-pileg-2019)
 
 Repository ini adalah implementasi dari metode Sainte-Lague dalam beberapa bahasa pemrograman.
 
-[Demo Aplikasi (Javascript)](https://edgarjeremy.github.io/sainte-lague-impement)
+[Demo Aplikasi (Javascript)](https://edgarjeremy.github.io/sainte-lague-implement)
 
 ## Contoh Penggunaan
 ### Javascript
